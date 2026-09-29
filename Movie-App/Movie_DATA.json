@@ -1,0 +1,10 @@
+[{"id":1,"title":96,"genre":50,"year":2014,"rating ":10,"poster":"http://dummyimage.com/124x100.png/ff4444/ffffff","isShowing":true},
+{"id":2,"title":71,"genre":39,"year":2026,"rating ":5,"poster":"http://dummyimage.com/238x100.png/cc0000/ffffff","isShowing":false},
+{"id":3,"title":24,"genre":39,"year":2023,"rating ":0,"poster":"http://dummyimage.com/108x100.png/5fa2dd/ffffff","isShowing":true},
+{"id":4,"title":6,"genre":69,"year":2014,"rating ":4,"poster":"http://dummyimage.com/153x100.png/dddddd/000000","isShowing":true},
+{"id":5,"title":89,"genre":66,"year":2007,"rating ":0,"poster":"http://dummyimage.com/111x100.png/5fa2dd/ffffff","isShowing":true},
+{"id":6,"title":57,"genre":64,"year":2021,"rating ":9,"poster":"http://dummyimage.com/132x100.png/cc0000/ffffff","isShowing":true},
+{"id":7,"title":52,"genre":45,"year":2023,"rating ":7,"poster":"http://dummyimage.com/134x100.png/dddddd/000000","isShowing":false},
+{"id":8,"title":48,"genre":77,"year":1990,"rating ":6,"poster":"http://dummyimage.com/135x100.png/5fa2dd/ffffff","isShowing":false},
+{"id":9,"title":86,"genre":85,"year":2004,"rating ":5,"poster":"http://dummyimage.com/142x100.png/ff4444/ffffff","isShowing":false},
+{"id":10,"title":77,"genre":83,"year":2026,"rating ":2,"poster":"http://dummyimage.com/230x100.png/cc0000/ffffff","isShowing":true}]
